@@ -1,4 +1,4 @@
-# í¾² Interactive Dice Game
+# í¾² Novelty Interactive Dice Game
 
 A fun and interactive dice game built with HTML5, CSS3, and JavaScript featuring smooth animations and responsive design.
 
